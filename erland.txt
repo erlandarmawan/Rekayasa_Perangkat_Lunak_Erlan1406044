@@ -1,4 +1,8 @@
 Erlan Darmawan
 1406044
 teknik informatika c
-rekayasa perangkat lunak
+
+		rekayasa perangkat lunak
+Rekayasa perangkat lunak (RPL, atau dalam bahasa Inggris: Software Engineering atau SE) adalah
+satu bidang profesi yang mendalami cara-cara pengembangan perangkat lunak termasuk pembuatan,
+pemeliharaan, manajemen organisasi pengembanganan perangkat lunak dan manajemen kualitas.

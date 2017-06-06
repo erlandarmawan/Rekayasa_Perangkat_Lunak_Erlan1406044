@@ -1,8 +1,33 @@
-Erlan Darmawan
-1406044
-teknik informatika c
+Nama : Erlan Darmawan
+NPM  : 1406044
+       Teknik Informatika C
 
-		rekayasa perangkat lunak
-Rekayasa perangkat lunak (RPL, atau dalam bahasa Inggris: Software Engineering atau SE) adalah
-satu bidang profesi yang mendalami cara-cara pengembangan perangkat lunak termasuk pembuatan,
-pemeliharaan, manajemen organisasi pengembanganan perangkat lunak dan manajemen kualitas.
+Materi :
+		Rekayasa Perangkat Lunak
+	Rekayasa perangkat lunak (RPL, atau dalam bahasa Inggris: Software Engineering atau SE) adalah
+satu bidang profesi yang mendalami cara-cara pengembangan perangkat lunak termasuk pembuatan, pemeliharaan,
+manajemen organisasi pengembanganan perangkat lunak dan manajemen kualitas.
+
+		Komponen Rekayasa Perangkat Lunak.
+1. Methods
+	Metode software engineering memberikan tehnik-tehnik bagaimana membentuk software. Metode ini terdiri dari serangkaian tugas :
+}  -->Perencanaan & estimasi proyek
+}  -->Analisis kebutuhan sistem dan software
+}  -->Desain struktur data
+}  -->Arsitektur program dan prosedur algoritma
+}  -->Coding
+}  -->Testing dan pemeliharaan
+ 
+2. Tools
+	Peralatan software engineering memberikan dukungan atau semiautomasi untuk metode. Contohnya :
+}  -->CASE (Case Aided Software Engineering), yaitu suatu software yang menggabungkan software, hard­ware, dan database software engineering untuk menghasilkan suatu lingkungan software engineering.
+}  -->Database Software Engineering, adalah sebuah struktur data yang berisi informasi penting tentang analisis, desain, kode dan testing.
+}  -->Analogi dengan CASE pada hardware adalah : CAD, CAM, CAE
+ 
+3. Proses Model
+Prosedur Software Engineering Terdiri dari : urut-urutan di mana metode tersebut diterapkan
+}  -->dokumen
+}  -->laporan-laporan
+}  -->formulir-formulir yang diperlukan
+}  -->mengontrol kualitas software
+}  -->mengkoordinasi perubahan yang terjadi pada software
